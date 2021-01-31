@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": "git+https://github.com/KenMan79/EthGlobal-West-Texas-Oil.git",
   "author": "Kenneth Luster <51566205+KenMan79@users.noreply.github.com>",
